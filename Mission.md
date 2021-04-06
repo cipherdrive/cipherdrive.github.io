@@ -1,4 +1,4 @@
-Mission
+![powerline](https://cipherdrive.github.io/CD-headerLogo.png)
 
 # Mission
 
