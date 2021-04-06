@@ -1,0 +1,5 @@
+Mission
+
+# Mission
+
+Our goal is to develop a system of robotic platforms that can communicate privately. The system must be able to send/receive encrypted communication.
