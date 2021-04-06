@@ -4,6 +4,6 @@
 
 ## Capstone 2021
 
-#### [About](https://cipherdrive.github.io/about)
-#### [Mission](https://cipherdrive.github.io/mission)
+#### [About](https://cipherdrive.github.io/About)
+#### [Mission](https://cipherdrive.github.io/Mission)
 
