@@ -1,4 +1,4 @@
-[CDLogo](https://cipherdrive.github.io/cdLogo) 
+[CDLogo](https://cipherdrive.github.io/cdLogo.png) 
 # CipherDrive Secure Communications
 
 ## Electronics Systems Engineering Technology
