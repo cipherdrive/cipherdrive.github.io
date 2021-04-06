@@ -4,4 +4,4 @@
 
 ### Capstone 2021
 
-- [Project Manager](cipherdrive.github.io/pm.md)
+- [Project Manager](https://cipherdrive.github.io/pm.md)
