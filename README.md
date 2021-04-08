@@ -1,4 +1,3 @@
-Title="CipherDrive Secure Communications"
 [![CDLogo](https://cipherdrive.github.io/cdLogo.png)](https://github.com)
 # CipherDrive Secure Communications
 
