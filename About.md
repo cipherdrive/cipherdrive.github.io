@@ -1,4 +1,4 @@
-![powerline](https://cipherdrive.github.io/CD-headerLogo.png)
+[![powerline](https://cipherdrive.github.io/CD-headerLogo.png)](https://cipherdrive.github.io)
 # About the Team
 
 CipherDrive is a Capstone team in the Engineering Technology and Industrial Distribution department at Texas A&M University.
