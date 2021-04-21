@@ -5,7 +5,7 @@
 # CipherDrive Secure Communications
 #### cipherdrive21@gmail.com
 
-#### CipherDrive is excited to be working on an embedded systems security project that includes wireless communications, encryption, and control systems.
+#### CipherDrive is excited to be developing an embedded systems security platform that includes wireless communications, encryption, and control systems.
 
 ### Electronics Systems Engineering Technology 
 ### - Capstone 2021
