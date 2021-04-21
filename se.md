@@ -1,4 +1,6 @@
-# Vania Jaime - vaniaj21@tamu.edu
+![jaime](https://cipherdrive.github.io/vania.jpg)
+
+# Vania Jaime
 # Software Engineer
 ## Test Engineer
 - LabVIEW
