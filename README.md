@@ -3,11 +3,12 @@
 [![CDLogo](https://cipherdrive.github.io/cdLogo.png)](https://github.com)
 
 # CipherDrive Secure Communications
+#### cipherdrive21@gmail.com
 
 
-
-## Electronics Systems Engineering Technology - Capstone 2021
+## Electronics Systems Engineering Technology 
+### - Capstone 2021
 
 ## Texas A&M University
 
-#### cipherdrive21@gmail.com
+
