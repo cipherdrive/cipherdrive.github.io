@@ -1,3 +1,4 @@
+![Flake](https://github.com/cipherdrive/dallas.jpg)
 # Dallas Flake
 # Communications Engineer
 ## Hardware Engineer
