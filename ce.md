@@ -1,4 +1,4 @@
-# Dallas Flake - dallasflake22@tamu.edu
+# Dallas Flake
 # Communications Engineer
 ## Hardware Engineer
 - Security
