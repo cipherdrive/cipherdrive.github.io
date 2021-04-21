@@ -4,7 +4,10 @@
 
 # CipherDrive Secure Communications
 
-## Electronics Systems Engineering Technology
 
-## Capstone 2021
 
+## Electronics Systems Engineering Technology - Capstone 2021
+
+## Texas A&M University
+
+cipherdrive21@gmail.com
