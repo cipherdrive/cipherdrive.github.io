@@ -1,4 +1,6 @@
-# James Beecher - jbbeecher@tamu.edu
+![beecher](https://cipherdrive.github.io/james.jpg)
+
+# James Beecher
 # Hardware Engineer
 ## Communications Engineer
 - Altium
