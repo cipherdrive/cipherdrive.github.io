@@ -1,4 +1,4 @@
-![moreno](https://cipherdrive.github.io/max.jpg)
+![moreno](https://cipherdrive.github.io/max.png)
 
 # Maximiliano Moreno
 # Mechanical Engineer
